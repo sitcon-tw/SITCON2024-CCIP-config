@@ -1,0 +1,90 @@
+{
+  "checkin": {
+    "order": 1,
+    "display_text": {
+      "en-US": "Check-in",
+      "zh-TW": "報到"
+    },
+    "available_time": "2022/09/04 7:30 +0800",
+    "expire_time": "2022/09/04  17:00 +0800",
+    "countdown": 0,
+    "related_scenario": [
+      {
+        "id": "kit",
+        "staff_query_used": true,
+        "unlock": true
+      },
+      {
+        "id": "lunch",
+        "staff_query_disable_message": "請出示您的餐券以領取午餐",
+        "unlock": true
+      }
+    ],
+    "deliver_puzzle": 2
+  },
+  "kit": {
+    "order": 2,
+    "display_text": {
+      "en-US": "Welcome Speaker Kit",
+      "zh-TW": "講者迎賓袋"
+    },
+    "available_time": "2022/09/04  8:25 +0800",
+    "expire_time": "2022/09/04  16:00 +0800",
+    "countdown": 45,
+    "attr": [
+      {
+        "row_name": "shirt_size",
+        "attr_name": "shirt_size"
+      }
+    ],
+    "lock_message": "Haven't Check-in"
+  },
+  "ticket_Stub": {
+    "order": 3,
+    "display_text": {
+      "en-US": "Ticket Stub for Transport Allowance",
+      "zh-TW": "交通補助票根"
+    },
+    "available_time": "2022/09/04  7:30 +0800",
+    "expire_time": "2022/09/04  17:00 +0800",
+    "countdown": 45
+  },
+  "lunch": {
+    "order": 4,
+    "display_text": {
+      "en-US": "Lunch",
+      "zh-TW": "領取午餐"
+    },
+    "available_time": "2022/09/04 11:00 +0800",
+    "expire_time": "2022/09/04 13:00 +0800",
+    "countdown": 45,
+    "lock_message": "你還沒點報到鈕！",
+    "attr": [
+      {
+        "row_name": "飲食",
+        "attr_name": "diet",
+        "value": {
+          "素": "vegetarian",
+          "葷": "meat"
+        }
+      }
+    ]
+  },
+  "celebration": {
+    "order": 5,
+    "display_text": {
+      "en-US": "Celebration",
+      "zh-TW": "慶功宴"
+    },
+    "available_time": "2022/09/04 17:30 +0800",
+    "expire_time": "2022/09/04 20:00 +0800",
+    "countdown": 45,
+    "attr": [
+      {
+        "row_name": "num_of_companion",
+        "attr_name": "num_of_companion"
+      }
+    ]
+  }
+ 
+}

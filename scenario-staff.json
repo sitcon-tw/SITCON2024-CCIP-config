@@ -1,0 +1,79 @@
+{
+  "checkin": {
+    "order": 0,
+    "display_text": {
+      "en-US": "Check-in",
+      "zh-TW": "報到"
+    },
+    "available_time": "2022/09/04 06:30 +0800",
+    "expire_time": "2022/09/04 17:00 +0800",
+    "countdown": 0,
+    "attr": [
+      {
+        "row_name": "diet",
+        "attr_name": "diet",
+        "value": {
+          "素": "vegetarian",
+          "葷": "meat"
+        }
+      }
+    ],
+    "deliver_puzzle": 2
+  },
+  "kit": {
+    "order": 1,
+    "display_text": {
+      "en-US": "Clothes",
+      "zh-TW": "領取衣服"
+    },
+    "available_time": "2022/09/03 13:30 +0800",
+    "expire_time": "2022/09/04 17:00 +0800",
+    "countdown": 36400,
+    "attr": [
+      {
+        "row_name": "T_shirt_size",
+        "attr_name": "T_shirt_size"
+      }
+    ]
+  },
+  "room": {
+    "order": 2,
+    "display_text": {
+      "en-US": "room",
+      "zh-TW": "住宿"
+    },
+    "available_time": "2022/09/03 06:30 +0800",
+    "expire_time": "2022/09/04 17:00 +0800",
+    "countdown": 36400,
+    "not_lock_rule": {
+      "row_name": "haveroom",
+      "value_match": "Y",
+      "not_match_disable_message": "很抱歉，你沒有申請住宿。QQ"
+    }
+  },
+  "allowance": {
+    "order": 3,
+    "display_text": {
+      "en-US": "Transport Allowance",
+      "zh-TW": "交通補助"
+    },
+    "available_time": "2022/09/04 10:30 +0800",
+    "expire_time": "2022/09/04 17:00 +0800",
+    "countdown": 36400,
+    "not_lock_rule": {
+      "row_name": "haveallowance",
+      "value_match": "Y",
+      "not_match_disable_message": "很抱歉，你沒有申請交通補助。QQ"
+    }
+  },
+  "celebration": {
+    "order": 4,
+    "display_text": {
+      "en-US": "Celebration",
+      "zh-TW": "慶功宴"
+    },
+    "available_time": "2022/09/04 17:30 +0800",
+    "expire_time": "2022/09/04 20:00 +0800",
+    "countdown": 0
+  }
+}
