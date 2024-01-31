@@ -5,8 +5,8 @@
       "en-US": "Check-in",
       "zh-TW": "報到"
     },
-    "available_time": "2022/09/04 7:30 +0800",
-    "expire_time": "2022/09/04 16:00 +0800",
+    "available_time": "2024/03/09 7:30 +0800",
+    "expire_time": "2024/03/09 16:00 +0800",
     "countdown": 0,
     "related_scenario": [
       {
@@ -16,7 +16,7 @@
       },
       {
         "id": "lunch",
-        "disable_time": "2022/09/04 9:30 +0800",
+        "disable_time": "2024/03/09 9:30 +0800",
         "disable_message": "太晚報到囉 owo",
         "staff_query_disable_message": "請出示您的餐券以領取午餐",
         "unlock": true
@@ -30,8 +30,8 @@
       "en-US": "Welcome Kit",
       "zh-TW": "迎賓袋"
     },
-    "available_time": "2022/09/04 8:25 +0800",
-    "expire_time": "2022/09/04 16:00 +0800",
+    "available_time": "2024/03/09 8:30 +0800",
+    "expire_time": "2024/03/09 16:00 +0800",
     "countdown": 45,
     "lock_message": "你還沒點報到鈕！",
     "attr": [
@@ -47,8 +47,8 @@
       "en-US": "Lunch",
       "zh-TW": "領取午餐"
     },
-    "available_time": "2022/09/04 11:00 +0800",
-    "expire_time": "2022/09/04 13:00 +0800",
+    "available_time": "2024/03/09 11:00 +0800",
+    "expire_time": "2024/03/09 13:00 +0800",
     "countdown": 45,
     "lock_message": "你還沒點報到鈕！",
     "attr": [
