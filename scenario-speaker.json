@@ -5,8 +5,8 @@
       "en-US": "Check-in",
       "zh-TW": "報到"
     },
-    "available_time": "2022/09/04 7:30 +0800",
-    "expire_time": "2022/09/04  17:00 +0800",
+    "available_time": "2024/03/09 7:30 +0800",
+    "expire_time": "2024/03/09  17:00 +0800",
     "countdown": 0,
     "related_scenario": [
       {
@@ -28,8 +28,8 @@
       "en-US": "Welcome Speaker Kit",
       "zh-TW": "講者迎賓袋"
     },
-    "available_time": "2022/09/04  8:25 +0800",
-    "expire_time": "2022/09/04  16:00 +0800",
+    "available_time": "2024/03/09  8:30 +0800",
+    "expire_time": "2024/03/09  16:00 +0800",
     "countdown": 45,
     "attr": [
       {
@@ -45,8 +45,8 @@
       "en-US": "Ticket Stub for Transport Allowance",
       "zh-TW": "交通補助票根"
     },
-    "available_time": "2022/09/04  7:30 +0800",
-    "expire_time": "2022/09/04  17:00 +0800",
+    "available_time": "2024/03/09  7:30 +0800",
+    "expire_time": "2024/03/09  17:00 +0800",
     "countdown": 45
   },
   "lunch": {
@@ -55,8 +55,8 @@
       "en-US": "Lunch",
       "zh-TW": "領取午餐"
     },
-    "available_time": "2022/09/04 11:00 +0800",
-    "expire_time": "2022/09/04 13:00 +0800",
+    "available_time": "2024/03/09 11:00 +0800",
+    "expire_time": "2024/03/09 13:00 +0800",
     "countdown": 45,
     "lock_message": "你還沒點報到鈕！",
     "attr": [
@@ -76,8 +76,8 @@
       "en-US": "Celebration",
       "zh-TW": "慶功宴"
     },
-    "available_time": "2022/09/04 17:30 +0800",
-    "expire_time": "2022/09/04 20:00 +0800",
+    "available_time": "2024/03/09 17:30 +0800",
+    "expire_time": "2024/03/09 20:00 +0800",
     "countdown": 45,
     "attr": [
       {

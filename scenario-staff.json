@@ -5,8 +5,8 @@
       "en-US": "Check-in",
       "zh-TW": "報到"
     },
-    "available_time": "2022/09/04 06:30 +0800",
-    "expire_time": "2022/09/04 17:00 +0800",
+    "available_time": "2024/03/09 06:30 +0800",
+    "expire_time": "2024/03/09 17:00 +0800",
     "countdown": 0,
     "attr": [
       {
@@ -26,8 +26,8 @@
       "en-US": "Clothes",
       "zh-TW": "領取衣服"
     },
-    "available_time": "2022/09/03 13:30 +0800",
-    "expire_time": "2022/09/04 17:00 +0800",
+    "available_time": "2024/03/08 13:30 +0800",
+    "expire_time": "2024/03/09 17:00 +0800",
     "countdown": 36400,
     "attr": [
       {
@@ -42,8 +42,8 @@
       "en-US": "room",
       "zh-TW": "住宿"
     },
-    "available_time": "2022/09/03 06:30 +0800",
-    "expire_time": "2022/09/04 17:00 +0800",
+    "available_time": "2024/03/08 06:30 +0800",
+    "expire_time": "2024/03/09 17:00 +0800",
     "countdown": 36400,
     "not_lock_rule": {
       "row_name": "haveroom",
@@ -57,8 +57,8 @@
       "en-US": "Transport Allowance",
       "zh-TW": "交通補助"
     },
-    "available_time": "2022/09/04 10:30 +0800",
-    "expire_time": "2022/09/04 17:00 +0800",
+    "available_time": "2024/03/09 10:30 +0800",
+    "expire_time": "2024/03/09 17:00 +0800",
     "countdown": 36400,
     "not_lock_rule": {
       "row_name": "haveallowance",
@@ -72,8 +72,8 @@
       "en-US": "Celebration",
       "zh-TW": "慶功宴"
     },
-    "available_time": "2022/09/04 17:30 +0800",
-    "expire_time": "2022/09/04 20:00 +0800",
+    "available_time": "2024/03/09 17:30 +0800",
+    "expire_time": "2024/03/09 20:00 +0800",
     "countdown": 0
   }
 }
