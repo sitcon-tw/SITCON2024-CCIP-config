@@ -55,7 +55,7 @@
       "en-US": "Lunch",
       "zh-TW": "領取午餐"
     },
-    "available_time": "2024/03/09 11:00 +0800",
+    "available_time": "2024/03/09 11:15 +0800",
     "expire_time": "2024/03/09 13:00 +0800",
     "countdown": 45,
     "lock_message": "你還沒點報到鈕！",
@@ -86,5 +86,5 @@
       }
     ]
   }
- 
+
 }
